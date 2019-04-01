@@ -1,8 +1,9 @@
 name: extremum_size
 description: A widget that sets the minimum and maximum sizes of the child widget.
 version: 0.0.1
-author:
-homepage:
+authors:
+  - Igor Katsuba <katsuba.igor@gmail.com>
+homepage: https://github.com/prologify/extremum_size
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
